@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
    it appears in the header.
    ============================================================ */
 
-const AUTHOR = "Muthala Gundo";
+const AUTHOR = "Muthala Gundo - 2026";
 const INSTITUTION = "University of Johannesburg";
 const PROJECT = "Mini-SOC Banking Fraud Monitoring";
 
